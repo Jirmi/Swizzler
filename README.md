@@ -9,7 +9,7 @@ Full Presentation, White Paper and Video Recording can be found at https://www.b
 Everything here is in a beta stage and stuff maybe unstable.
 
 
-** Swizzler is being updated to v2 which will make use of Frida and will allowing targeting of applications on non-jailbroken devices. More on it at [Swizzler2](https://github.com/vtky/Swizzler2)
+** Swizzler is being updated to v2 which will make use of Frida and will allowing targeting of applications on non-jailbroken devices. More on it at [Swizzler2](https://github.com/vtky/Swizzler2) **
 
 
 ## License
